@@ -21,3 +21,6 @@
 ## 参考リンク
 - [石川県 建築住宅課の記者発表資料（令和5年度）](https://www.pref.ishikawa.lg.jp/kisya/r5/kentikuzyuutaku.html)
 - [石川県能登町 応急仮設住宅建設情報](https://www.town.noto.lg.jp/www/info/detail.jsp?common_id=20932)
+- [石川県七尾市 建設型応急住宅について](https://www.city.nanao.lg.jp/toshikenchiku/oukyuukasetujuutaku.html)
+- [石川県珠洲市 応急仮設住宅の入居申込について](https://www.city.suzu.lg.jp/soshiki/5/11680.html)
+- [石川県穴水町 応急仮設住宅（建設型）について](https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_oukyuujutaku_2.html)
