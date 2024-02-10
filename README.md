@@ -9,8 +9,10 @@
 
 
 ## 更新情報
+- 2024/2/11
+  - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「応急仮設住宅の進捗状況」（2024年2月8日時点）に基づきデータを更新しました。合計34箇所（2,156戸）です。
 - 2024/1/31
-  - 石川県（2024/1/29）の記者発表資料に基づきデータを更新しました。合計22箇所（1248戸）です。
+  - 石川県（2024/1/29）の記者発表資料に基づきデータを更新しました。合計22箇所（1,248戸）です。
   - 「完成日」列を追加しました。
 - 2024/1/27
   - 石川県（2024/1/23）の記者発表資料に基づきデータを更新しました。合計14箇所（640戸）です。 
@@ -19,6 +21,7 @@
 - 公開しているGeoJSON形式およびGoogle スプレッドシートのデータ: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## 参考リンク
+- [石川県 応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)
 - [石川県 建築住宅課の記者発表資料（令和5年度）](https://www.pref.ishikawa.lg.jp/kisya/r5/kentikuzyuutaku.html)
 - [石川県能登町 応急仮設住宅建設情報](https://www.town.noto.lg.jp/www/info/detail.jsp?common_id=20932)
 - [石川県七尾市 建設型応急住宅について](https://www.city.nanao.lg.jp/toshikenchiku/oukyuukasetujuutaku.html)
