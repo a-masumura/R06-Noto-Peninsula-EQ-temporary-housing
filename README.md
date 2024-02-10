@@ -3,7 +3,7 @@
 令和6年能登半島地震に伴い建設中の建設型応急仮設住宅について、自治体の発表資料をもとに位置情報などを付加して、GISデータ化したデータ（GeoJSON形式）を公開しています。  
 以下のリンクより、データにアクセス可能です。  
 - GeoJSON形式  
-[令和6年能登半島地震_建設型応急仮設住宅.geojson](https://raw.githubusercontent.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-housing/main/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87_%E5%BB%BA%E8%A8%AD%E5%9E%8B%E5%BF%9C%E6%80%A5%E4%BB%AE%E8%A8%AD%E4%BD%8F%E5%AE%85.geojson)
+[https://github.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-housing/raw/main/令和6年能登半島地震_建設型応急仮設住宅.geojson](https://github.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-housing/raw/main/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87_%E5%BB%BA%E8%A8%AD%E5%9E%8B%E5%BF%9C%E6%80%A5%E4%BB%AE%E8%A8%AD%E4%BD%8F%E5%AE%85.geojson)
 - Google スプレッドシートへのリンク  
 [https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing)
 
