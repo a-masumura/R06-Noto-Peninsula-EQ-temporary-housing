@@ -7,7 +7,14 @@
 - Google スプレッドシートへのリンク  
 [https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing)
 
+- 「◯月下旬（YYYY/MM/DD）」などの表記はYYYY年MM月DD日時点の石川県のPDF「着工済み団地一覧」に基づくことを示しています。特に（YYYY/MM/DD）がない場合は「出典」列のデータソースによります。
+
 ## 更新情報
+- 2024/3/6
+  - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年3月5日時点の一覧）に基づきデータを更新しました。合計72箇所（3,947戸）です。（住所が同じ用地は1箇所としてカウントしています。）
+  - 「完成フラグ」列を追加しました。着工日が明記されたものは「着工」、完成日が明記されたものは「完成」、一体の団地のうち一部の住戸が完成したものは「一部完成」と入力しています。
+  - 「完成見込み」列を追加しました。従来は「完成日」列に見込みも記入していましたが、完成日と完成見込みを別々の列に格納することとしました。
+  - 「出典URL」列を削除しました。既にPDFが削除されており、リンク切れになるためです。
 - 2024/3/4
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年2月28日時点の一覧）に基づきデータを更新しました。合計64箇所（3,522戸）です。（住所が同じ用地は1箇所としてカウントしています。）
 - 2024/2/20
