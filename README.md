@@ -8,6 +8,10 @@
 [https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing)
 
 - 「◯月下旬（YYYY/MM/DD）」などの表記はYYYY年MM月DD日時点の石川県のPDF「着工済み団地一覧」に基づくことを示しています。特に（YYYY/MM/DD）がない場合は「出典」列のデータソースによります。
+- 「建築タイプ」列は、「プレハブ型（組立ハウス）」「プレハブ型（ユニットハウス）」「トレーラーハウス型」「ムービングハウス型」「まちづくり型（木造長屋型）」「ふるさと回帰型（木造戸建型）」「その他」に分類しています。
+  - 石川県は、応急仮設住宅（建設型）について、「従来型」（＝プレハブ）、「まちづくり型（熊本モデル）」（＝木造長屋）、「ふるさと回帰型（石川モデル）」（＝木造戸建風）の3タイプを供給すると発表しています。
+  - 建築タイプは、石川県発表の「着工済み団地一覧」には記載がないため、現地確認、新聞記事、石川県の他のウェブサイト掲載資料、市町のウェブサイト掲載資料で確認できたものを記載しています。
+  - 珠洲市はウェブサイトに各団地の現場写真を掲載しています。こちらも参考にしています。（[石川県珠洲市　応急仮設住宅](https://www.city.suzu.lg.jp/life/3/30/174/)）
 
 ## 更新情報
 - 2024/3/15
@@ -40,3 +44,4 @@
 - [石川県七尾市 建設型応急住宅について](https://www.city.nanao.lg.jp/toshikenchiku/oukyuukasetujuutaku.html)
 - [石川県珠洲市 応急仮設住宅の入居申込について](https://www.city.suzu.lg.jp/soshiki/5/11680.html)
 - [石川県穴水町 応急仮設住宅（建設型）について](https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_oukyuujutaku_2.html)
+- [石川県珠洲市　応急仮設住宅](https://www.city.suzu.lg.jp/life/3/30/174/)
