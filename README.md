@@ -7,12 +7,17 @@
 - Google スプレッドシートへのリンク  
 [https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing)
 
+<img width="1509" alt="image" src="https://github.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-housing/assets/79132782/5f8c355c-0104-48ca-9b53-e007a589feb0">
+
+
 - データの単位は、石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」の区分に揃えることとしています（2024年4月9日更新分より）。
   - 石川県発表の「着工済み団地一覧」では、住所が同じ団地でも、着工日・完成日が異なる場合は複数行に分かれています。
   - 2024年3月15日更新までは、住所が同じ用地は1箇所としてGISデータを作成していましたが、2024年4月9日更新分より変更しました。
 
 
 ## 更新情報
+- 2024/5/15
+  - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年5月8日時点の一覧及び2024年5月14日時点の一覧）に基づきデータを更新しました。
 - 2024/4/26
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年4月23日時点の一覧）に基づきデータを更新しました。
 - 2024/4/18
