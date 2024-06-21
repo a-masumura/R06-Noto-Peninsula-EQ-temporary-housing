@@ -16,6 +16,8 @@
 
 
 ## 更新情報
+- 2024/6/21
+  - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年6月11日,18日時点の一覧）に基づきデータを更新しました。
 - 2024/6/11
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年6月4日時点の一覧）に基づきデータを更新しました。
 - 2024/6/4
