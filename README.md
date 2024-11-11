@@ -1,6 +1,6 @@
-# 令和6年能登半島地震 建設型応急仮設住宅GISデータ
+# 令和6年能登半島地震 建設型応急住宅GISデータ
 ## 概要
-令和6年能登半島地震に伴い建設中の建設型応急仮設住宅について、自治体の発表資料をもとに位置情報などを付加して、GISデータ化したデータ（GeoJSON形式）を公開しています。  
+令和6年能登半島地震に伴い建設中の建設型応急住宅について、自治体の発表資料をもとに位置情報などを付加して、GISデータ化したデータ（GeoJSON形式）を公開しています。  
 以下のリンクより、データにアクセス可能です。  
 - GeoJSON形式  
 [https://github.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-housing/raw/main/令和6年能登半島地震_建設型応急仮設住宅.geojson](https://github.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-housing/raw/main/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87_%E5%BB%BA%E8%A8%AD%E5%9E%8B%E5%BF%9C%E6%80%A5%E4%BB%AE%E8%A8%AD%E4%BD%8F%E5%AE%85.geojson)
@@ -16,6 +16,8 @@
 
 
 ## 更新情報
+- 2024/11/11
+  - リポジトリのタイトルを「令和6年能登半島地震 建設型応急仮設住宅GISデータ」から「令和6年能登半島地震 建設型応急住宅GISデータ」に変更しました。（制度上の名称に合わせました。）なお、GeoJSONのファイル名は変更していません。
 - 2024/11/7
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年11月5日時点の一覧）に基づきデータを更新しました。
 - 2024/10/31
