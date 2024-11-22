@@ -14,9 +14,12 @@
   - 石川県発表の「着工済み団地一覧」では、住所が同じ団地でも、着工日・完成日が異なる場合は複数行に分かれています。
   - 2024年3月15日更新までは、住所が同じ用地は1箇所としてGISデータを作成していましたが、2024年4月9日更新分より変更しました。
   - 団地名は、ゼンリンが公開している「[石川県応急仮設住宅マップ](https://www.zenrin.co.jp/product/article/noto_kasetsu_map/index.html)」および穴水町ウェブサイトの「[応急仮設住宅（建設型）について](https://www.town.anamizu.lg.jp/site/r6notohantojishin/104081.html)」に掲載されている情報を参照しています。
+  - 2024年11月22日更新より、石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）奥能登豪雨）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6okunotogouukensetsugataoukyuu.html)」に掲載されたPDF「応急仮設住宅の進捗状況」の情報を追加しています。それに伴い、災害名のデータ列を新たに設けています。
 
 
 ## 更新情報
+- 2024/11/22
+  - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年11月19日時点の一覧）および「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）奥能登豪雨）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6okunotogouukensetsugataoukyuu.html)」に掲載されたPDF「応急仮設住宅の進捗状況」（2024年11月19日時点の一覧）に基づきデータを更新しました。
 - 2024/11/15
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」（2024年11月12日時点の一覧）に基づきデータを更新しました。
 - 2024/11/11
