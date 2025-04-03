@@ -7,7 +7,7 @@
 - Google スプレッドシートへのリンク  
 [https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16zO3MmnqDNoG2Dn1got9jTN-4Jiv0w5LaA7Sr9DUPEM/edit?usp=sharing)
 
-<img width="1276" alt="graph1_240910" src="https://github.com/user-attachments/assets/3908542d-0bb7-43e1-8b7e-9d17554d59ab">
+<img width="1276" alt="graph1_240910" src="https://github.com/user-attachments/assets/056a4325-edef-4a60-822c-16860c7cf2e6">
 
 
 - データの単位は、石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）能登半島地震）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6oukyuukasetsujyuutaku.html)」に掲載されたPDF「着工済み団地一覧」の区分に揃えることとしています（2024年4月9日更新分より）。
@@ -18,6 +18,8 @@
 
 
 ## 更新情報
+- 2025/4/3
+  - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）奥能登豪雨）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6okunotogouukensetsugataoukyuu.html)」に掲載されたPDF「応急仮設住宅の進捗状況」（2025年3月28日時点の一覧）に基づきデータを更新しました。
 - 2025/3/20
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）奥能登豪雨）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6okunotogouukensetsugataoukyuu.html)」に掲載されたPDF「応急仮設住宅の進捗状況」（2025年3月18日時点の一覧）に基づきデータを更新しました。
 - 2025/3/13
