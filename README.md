@@ -18,6 +18,8 @@
 
 
 ## 更新情報
+- 2025/12/3
+  - 「[石川県復旧状況見える化マップ](https://experience.arcgis.com/experience/f36fb743bcac4a1a979d93be3dcf0bd2)」の「仮設住宅設置箇所」に基づき応急仮設住宅の位置データを更新しました。
 - 2025/4/3
   - 石川県ウェブサイトの「[応急仮設住宅（建設型）について（災害救助法：令和6年（2024年）奥能登豪雨）](https://www.pref.ishikawa.lg.jp/kenju/saigai/r6okunotogouukensetsugataoukyuu.html)」に掲載されたPDF「応急仮設住宅の進捗状況」（2025年3月28日時点の一覧）に基づきデータを更新しました。
 - 2025/3/20
